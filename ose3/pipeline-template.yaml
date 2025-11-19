@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Template
-labels:
 metadata:
+  labels:
   annotations:
     description: CI/CD Pipeline for Dev and Live environments
     iconClass: icon-java
